@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Shree Tarini Kitchen,Jaipur,07:00 - 23:00
+2,Taste of Jivin Palace,Hyderabad,07:00 - 21:00
+3,Tandoori Neelofar House,Pune,09:00 - 21:00
+4,Shree Myra Point,Kolkata,08:00 - 23:00
+5,Annapurna Dishani Delight,Bangalore,08:00 - 22:00
+6,Spice Armaan Bazaar,Delhi,11:00 - 22:00
+7,Foodie Divij House,Bangalore,11:00 - 22:00
+8,Cafe Riya House,Chennai,08:00 - 21:00
+9,The Khushi Bazaar,Lucknow,11:00 - 23:00
+10,Tandoori Hazel Heaven,Kolkata,08:00 - 21:00
+11,Cafe Zaina Heaven,Ahmedabad,07:00 - 22:00
+12,Tandoori Kimaya Point,Kolkata,11:00 - 21:00
+13,Biryani Anahita Corner,Chennai,09:00 - 21:00
+14,Cafe Faiyaz Hub,Mumbai,08:00 - 21:00
+15,Annapurna Samiha Kitchen,Jaipur,09:00 - 21:00
+16,The Saira Bazaar,Pune,09:00 - 23:00
+17,Tandoori Indrajit Point,Chennai,09:00 - 23:00
+18,Annapurna Sumer Point,Hyderabad,08:00 - 23:00
+19,Shree Advika Bazaar,Bangalore,10:00 - 23:00
+20,Foodie Hiran Delight,Mumbai,07:00 - 21:00
+21,Cafe Nayantara Corner,Kolkata,08:00 - 23:00
+22,Spice Hridaan Hub,Chennai,07:00 - 21:00
+23,Shree Indrans Palace,Bangalore,11:00 - 23:00
+24,Biryani Aradhya Corner,Ahmedabad,10:00 - 21:00
+25,Taste of Arhaan Palace,Mumbai,10:00 - 22:00
+26,Annapurna Advik Express,Kolkata,07:00 - 21:00
+27,Spice Adira Bazaar,Kolkata,10:00 - 23:00
+28,The Tara Heaven,Ahmedabad,11:00 - 22:00
+29,Spice Adira Kitchen,Mumbai,09:00 - 21:00
+30,Foodie Himmat Delight,Chennai,07:00 - 23:00
+31,Spice Zaina Express,Hyderabad,10:00 - 23:00
+32,Spice Baiju Palace,Hyderabad,10:00 - 23:00
+33,Foodie Dharmajan Hub,Ahmedabad,10:00 - 21:00
+34,Annapurna Vritika Heaven,Ahmedabad,09:00 - 23:00
+35,Spice Shamik Bazaar,Pune,09:00 - 23:00
+36,Taste of Romil Heaven,Kolkata,08:00 - 22:00
+37,Foodie Jivin Point,Pune,10:00 - 22:00
+38,Hotel Mishti Hub,Lucknow,08:00 - 23:00
+39,Annapurna Inaaya  Kitchen,Ahmedabad,09:00 - 22:00
+40,Taste of Kavya Point,Kolkata,11:00 - 22:00
+41,Shree Uthkarsh House,Chennai,10:00 - 22:00
+42,The Mehul Bazaar,Chennai,08:00 - 21:00
+43,Cafe Anay Point,Delhi,11:00 - 22:00
+44,Shree Vaibhav Hub,Pune,09:00 - 23:00
+45,Foodie Mahika Corner,Bangalore,07:00 - 22:00
+46,Biryani Jiya Hub,Pune,07:00 - 22:00
+47,Tandoori Myra Corner,Kolkata,08:00 - 23:00
+48,Cafe Divyansh Palace,Lucknow,10:00 - 23:00
+49,Shree Krish Point,Ahmedabad,09:00 - 21:00
+50,Taste of Vardaniya Bazaar,Chennai,09:00 - 22:00
+51,Shree Lakshay Point,Delhi,11:00 - 22:00
+52,Foodie Trisha Point,Lucknow,08:00 - 22:00
+53,Spice Lakshit Heaven,Lucknow,10:00 - 21:00
+54,Foodie Siya Palace,Lucknow,10:00 - 22:00
+55,Spice Indrajit Delight,Lucknow,07:00 - 21:00
+56,Tandoori Taimur Heaven,Chennai,09:00 - 21:00
+57,Annapurna Romil Point,Chennai,08:00 - 23:00
+58,Taste of Dishani Corner,Pune,09:00 - 21:00
+59,Biryani Riya House,Mumbai,09:00 - 23:00
+60,Hotel Biju Delight,Ahmedabad,11:00 - 22:00
+61,Annapurna Madhup House,Lucknow,10:00 - 21:00
+62,Foodie Aarav Delight,Delhi,08:00 - 21:00
+63,Biryani Mamooty House,Ahmedabad,09:00 - 22:00
+64,Hotel Shlok Kitchen,Kolkata,08:00 - 22:00
+65,The Tara Corner,Lucknow,10:00 - 22:00
+66,The Kiara Point,Mumbai,09:00 - 22:00
+67,Biryani Mishti Bazaar,Delhi,09:00 - 22:00
+68,The Tarini Hub,Bangalore,11:00 - 21:00
+69,Annapurna Mohanlal Palace,Ahmedabad,07:00 - 23:00
+70,Shree Divij Delight,Hyderabad,10:00 - 21:00
+71,The Yakshit Point,Mumbai,11:00 - 23:00
+72,Shree Dharmajan Delight,Hyderabad,09:00 - 23:00
+73,Spice Jhanvi Bazaar,Mumbai,10:00 - 22:00
+74,Taste of Neelofar Kitchen,Ahmedabad,09:00 - 23:00
+75,Shree Aaina Heaven,Pune,11:00 - 23:00
+76,Spice Zeeshan Hub,Jaipur,10:00 - 23:00
+77,Shree Inaaya  Hub,Delhi,10:00 - 23:00
+78,Spice Yakshit Bazaar,Hyderabad,10:00 - 21:00
+79,Spice Ela Kitchen,Hyderabad,11:00 - 23:00
+80,Hotel Divit House,Jaipur,11:00 - 23:00
+81,Taste of Kismat Delight,Chennai,10:00 - 22:00
+82,Taste of Ivana Heaven,Hyderabad,11:00 - 23:00
+83,The Jayant Delight,Chennai,10:00 - 22:00
+84,Annapurna Pihu Palace,Jaipur,10:00 - 21:00
+85,Hotel Aarush Palace,Ahmedabad,08:00 - 23:00
+86,Taste of Myra Heaven,Mumbai,09:00 - 21:00
+87,Biryani Aarna Point,Chennai,08:00 - 21:00
+88,Biryani Shamik Hub,Ahmedabad,10:00 - 22:00
+89,Tandoori Ahana  Palace,Ahmedabad,09:00 - 23:00
+90,Biryani Jiya Palace,Bangalore,07:00 - 22:00
+91,The Taimur Express,Ahmedabad,10:00 - 22:00
+92,Cafe Arnav Heaven,Kolkata,08:00 - 21:00
+93,Shree Arhaan House,Pune,10:00 - 23:00
+94,Hotel Zeeshan Point,Mumbai,09:00 - 23:00
+95,Spice Anahita Bazaar,Kolkata,10:00 - 22:00
+96,Shree Parinaaz Hub,Jaipur,07:00 - 23:00
+97,Taste of Kiara Bazaar,Hyderabad,10:00 - 21:00
+98,Spice Ahana  Bazaar,Hyderabad,10:00 - 23:00
+99,Shree Ira Heaven,Delhi,11:00 - 23:00
+100,Cafe Tarini Hub,Chennai,10:00 - 22:00
+101,Annapurna Darshit House,Jaipur,11:00 - 21:00
+102,Spice Aaina Palace,Kolkata,07:00 - 23:00
+103,Annapurna Darshit Heaven,Kolkata,07:00 - 23:00
+104,Foodie Hansh Corner,Jaipur,08:00 - 23:00
+105,Taste of Khushi House,Ahmedabad,11:00 - 21:00
+106,Cafe Vedika Hub,Jaipur,10:00 - 23:00
+107,Taste of Kartik Kitchen,Mumbai,09:00 - 22:00
+108,Annapurna Ritvik Bazaar,Mumbai,08:00 - 23:00
+109,Hotel Aradhya Delight,Pune,10:00 - 21:00
+110,Foodie Aaryahi Hub,Mumbai,10:00 - 22:00
+111,Cafe Vritika Hub,Pune,07:00 - 22:00
+112,Biryani Misha House,Hyderabad,10:00 - 21:00
+113,Tandoori Ira Kitchen,Lucknow,07:00 - 23:00
+114,The Anya House,Lucknow,07:00 - 22:00
+115,Tandoori Gokul Bazaar,Jaipur,11:00 - 21:00
+116,Taste of Shanaya Express,Kolkata,11:00 - 22:00
+117,Hotel Riaan Corner,Mumbai,10:00 - 21:00
+118,Annapurna Anika Delight,Pune,11:00 - 21:00
+119,Annapurna Arnav Hub,Bangalore,11:00 - 21:00
+120,Shree Gatik Corner,Lucknow,08:00 - 23:00
+121,Shree Elakshi Point,Bangalore,10:00 - 21:00
+122,Foodie Vihaan Bazaar,Bangalore,10:00 - 23:00
+123,Hotel Onkar Express,Hyderabad,09:00 - 22:00
+124,Shree Kashvi Bazaar,Chennai,09:00 - 21:00
+125,Tandoori Miraan Kitchen,Delhi,10:00 - 23:00
+126,Tandoori Pari Express,Bangalore,11:00 - 21:00
+127,Cafe Amani Delight,Delhi,09:00 - 21:00
+128,Taste of Miraya Hub,Lucknow,10:00 - 22:00
+129,Biryani Anahi Hub,Pune,08:00 - 22:00
+130,Shree Priyansh Kitchen,Delhi,09:00 - 21:00
+131,Foodie Pari Express,Delhi,09:00 - 21:00
+132,Biryani Ivan Point,Pune,09:00 - 21:00
+133,Spice Chirag Palace,Mumbai,07:00 - 23:00
+134,Spice Nakul Heaven,Ahmedabad,11:00 - 23:00
+135,Tandoori Sana Kitchen,Mumbai,07:00 - 22:00
+136,Annapurna Emir Palace,Delhi,11:00 - 21:00
+137,Shree Krish Point,Bangalore,08:00 - 22:00
+138,Cafe Riaan Kitchen,Kolkata,11:00 - 23:00
+139,Shree Alia Hub,Kolkata,10:00 - 23:00
+140,Shree Hunar Express,Chennai,07:00 - 22:00
+141,The Diya Heaven,Lucknow,11:00 - 21:00
+142,Cafe Vihaan Hub,Mumbai,07:00 - 21:00
+143,Annapurna Shray Express,Bangalore,10:00 - 23:00
+144,Spice Kashvi Express,Bangalore,10:00 - 21:00
+145,Cafe Purab Express,Delhi,09:00 - 21:00
+146,Tandoori Eshani Delight,Mumbai,08:00 - 22:00
+147,Biryani Yuvraj  Corner,Mumbai,11:00 - 21:00
+148,Cafe Darshit Corner,Delhi,08:00 - 23:00
+149,Spice Nitara House,Bangalore,11:00 - 22:00
+150,Hotel Baiju Hub,Ahmedabad,11:00 - 22:00
+151,Cafe Heer House,Bangalore,10:00 - 23:00
+152,Foodie Ehsaan Heaven,Ahmedabad,08:00 - 21:00
+153,Taste of Jayant Kitchen,Lucknow,07:00 - 22:00
+154,Biryani Priyansh Bazaar,Ahmedabad,09:00 - 23:00
+155,Cafe Yakshit Delight,Ahmedabad,09:00 - 21:00
+156,Tandoori Samaira Point,Pune,08:00 - 23:00
+157,Taste of Emir Bazaar,Chennai,08:00 - 22:00
+158,Spice Zeeshan Kitchen,Ahmedabad,08:00 - 22:00
+159,Foodie Mehul House,Chennai,08:00 - 21:00
+160,Tandoori Shlok Point,Chennai,09:00 - 23:00
+161,Shree Vidur Kitchen,Mumbai,10:00 - 23:00
+162,Spice Dhruv Corner,Kolkata,11:00 - 21:00
+163,Shree Vardaniya House,Lucknow,09:00 - 23:00
+164,Taste of Elakshi Heaven,Hyderabad,09:00 - 22:00
+165,Biryani Kartik House,Kolkata,10:00 - 22:00
+166,Tandoori Romil Hub,Hyderabad,09:00 - 22:00
+167,Annapurna Indranil Corner,Hyderabad,08:00 - 22:00
+168,Annapurna Pranay House,Hyderabad,09:00 - 22:00
+169,Annapurna Zara Delight,Kolkata,07:00 - 21:00
+170,Tandoori Ivan Corner,Jaipur,11:00 - 21:00
+171,Tandoori Anay Kitchen,Pune,10:00 - 23:00
+172,Hotel Riaan Corner,Lucknow,11:00 - 23:00
+173,Annapurna Ojas Hub,Mumbai,09:00 - 21:00
+174,Annapurna Prerak Kitchen,Lucknow,11:00 - 22:00
+175,Tandoori Mohanlal Bazaar,Delhi,09:00 - 22:00
+176,The Vivaan Hub,Mumbai,10:00 - 23:00
+177,The Anaya Bazaar,Bangalore,10:00 - 23:00
+178,Cafe Kiaan Hub,Bangalore,08:00 - 21:00
+179,Tandoori Anahita Heaven,Hyderabad,11:00 - 23:00
+180,Biryani Miraan Express,Mumbai,11:00 - 22:00
+181,The Oorja Delight,Ahmedabad,09:00 - 21:00
+182,Shree Shalv Palace,Mumbai,10:00 - 21:00
+183,Hotel Misha Point,Delhi,08:00 - 23:00
+184,Hotel Yasmin Heaven,Mumbai,11:00 - 22:00
+185,Tandoori Hiran Corner,Bangalore,09:00 - 23:00
+186,Annapurna Ritvik Heaven,Mumbai,11:00 - 23:00
+187,The Bhavin Point,Ahmedabad,09:00 - 22:00
+188,Cafe Pranay Palace,Ahmedabad,07:00 - 22:00
+189,Annapurna Samiha House,Pune,09:00 - 22:00
+190,The Saksham Heaven,Pune,10:00 - 21:00
+191,Hotel Nakul Corner,Pune,09:00 - 21:00
+192,Shree Divyansh Palace,Jaipur,09:00 - 22:00
+193,Foodie Armaan Kitchen,Ahmedabad,07:00 - 22:00
+194,Tandoori Ishaan Palace,Lucknow,11:00 - 22:00
+195,Shree Dhruv Bazaar,Delhi,07:00 - 22:00
+196,Shree Vivaan Point,Mumbai,08:00 - 22:00
+197,Cafe Lakshit Corner,Lucknow,07:00 - 23:00
+198,Spice Damini House,Bangalore,11:00 - 21:00
+199,Shree Darshit Hub,Mumbai,11:00 - 23:00
+200,Shree Ranbir Delight,Chennai,09:00 - 22:00
