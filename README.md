@@ -1,28 +1,42 @@
+# Food Delivery SQL EDA Project
 
----
+This project involves performing exploratory data analysis (EDA) on a simulated food delivery dataset using SQL. The goal is to uncover customer behavior patterns, restaurant performance, sales trends, and other business insights.
 
-## 💡 How to Use
+## Project Objective
 
-1. Load your dataset into a PostgreSQL database.
-2. Open `EDA.sql` in your SQL editor.
-3. Run each query section-by-section to explore the data and gain insights.
+- Clean the dataset and handle missing values
+- Answer common business questions using SQL queries
+- Help stakeholders make data-driven decisions in a food delivery business context
 
----
+## Dataset Overview
 
-## ✅ Requirements
+The dataset consists of the following tables:
 
-- SQL Environment (e.g., PostgreSQL, MySQL)
-- A database with the following schemas: `restaurant`, `customer`, `orders`, `deliveries`, `rider`
-- Timestamps, amount values, and categorical fields correctly formatted
+- `restaurant` – contains restaurant details
+- `customer` – contains customer information
+- `orders` – contains order-level data
+- `deliveries` – tracks order delivery status
+- `rider` – contains delivery rider information
 
----
+## Key Analysis Performed
 
-## 📬 Contact
+- Top 3 dishes ordered by a specific customer
+- Most popular order time slots
+- Average order value for high-frequency customers
+- Customers who spent more than ₹10,000
+- Cancelled orders by restaurant and city
+- Restaurant revenue ranking by city
+- Most popular dish in each city
+- Customer churn analysis (2024 vs. 2025)
+- Monthly restaurant growth ratio
+- Customer segmentation (Gold vs. Silver)
+- Rider monthly incentives (based on 35% commission)
+- Peak order days for each restaurant
+- Customer lifetime value (CLV)
+- Monthly sales trend
+- Seasonal popularity of order items
+## Author
 
-If you have questions or want to collaborate, feel free to reach out!
+Created by Jitesh Mhatre. Feel free to fork or contribute if you find this helpful.
 
----
 
-## 📌 License
-
-This project is open-source and free to use for educational or analytical purposes.
